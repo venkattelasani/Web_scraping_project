@@ -64,24 +64,8 @@ The project aims to analyze how various features influence the selling price of 
 - **For Competitors:** Differentiate via unique features and competitive pricing  
 - **For Consumers:** Consider Boult for affordable yet varied options, or premium brands for advanced features  
 
-## 🔮 Future Scope
-- Expand dataset across multiple e-commerce platforms  
-- Build a price prediction model using Machine Learning  
-- Develop a real-time dashboard for dynamic price tracking  
-
-## 📂 Repository Structure
-├── notebooks/ # Jupyter Notebooks
-├── data/ # Raw & cleaned datasets
-├── visuals/ # Plots & graphs
-├── README.md # Project documentation
-└── requirements.txt # Dependencies
+g  
 
 
-## 🛠️ Tools & Technologies
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Requests, BeautifulSoup  
-- Jupyter Notebook  
 
 
