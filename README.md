@@ -70,3 +70,18 @@ The project aims to analyze how various features influence the selling price of 
 - Develop a real-time dashboard for dynamic price tracking  
 
 ## 📂 Repository Structure
+├── notebooks/ # Jupyter Notebooks
+├── data/ # Raw & cleaned datasets
+├── visuals/ # Plots & graphs
+├── README.md # Project documentation
+└── requirements.txt # Dependencies
+
+
+## 🛠️ Tools & Technologies
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Requests, BeautifulSoup  
+- Jupyter Notebook  
+
+
